@@ -19,7 +19,7 @@
 7. Longest Palindrome Subsequence - DP
 8. Atoi - String
 
-#2018-01-33 solved
+#2018-01-31 solved
 1. Codility Online Elevator Test
 2. Level Order Traversal - Binary Tree
 3. Pre Order Traversal - Binary Tree
