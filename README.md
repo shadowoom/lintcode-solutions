@@ -25,3 +25,10 @@
 3. Pre Order Traversal - Binary Tree
 5. In Order Traversal - Binary Tree
 6. Post Order Traversal - Binary Tree
+
+#2018-02-12 solved
+1. FindMinimumInRotatedSortedArray.java - Array
+2. FindMinimumInRotatedSortedArrayII.java - Array
+3. SearchInRotatedSortedArray.java - Array
+4. SearchInRotatedSortedArrayII.java - Array
+5. RecoverRotatedSortedArray.java - Array
